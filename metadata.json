@@ -1,0 +1,6 @@
+{
+  "name": "Crop Prediction & Soil Advisor",
+  "description": "An interactive, beautiful crop prediction and soil health recommendation dashboard driven by multi-variable soil parameters and advanced agronomic diagnostics powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
